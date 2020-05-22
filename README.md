@@ -1,6 +1,6 @@
 # FitnessTracker
 
-Full stack application using Node,Express and MongoDB
+Full stack application using NodeJS, Express and MongoDB
 - - -
 This fitness tracker application uses NodeJS/Express and Mongo DB to record and present activites.
 
